@@ -1,0 +1,44 @@
+ * El lenguaje que se reconoce es el siguiente:
+ *
+ * <program> ::= program <funDefinitionList> endprogram
+ * <funDefinitionList> ::= <funDefinition> <funDefinitionList>
+ *              | epsilon
+ * <funDefinition> ::= def <variable> lparen <varDefList> rparen
+ *              <varDefList>
+ *              <statementList>
+ *              <return>
+ *              enddef
+ * <varDefList> ::= <varDef> <varDefList>
+ *              | epsilon
+ * <varDef> ::= int <variable>
+ * <asignacion> ::= <variable> = <constante> | <variable> = <variable>
+ *                | <variable> = <expr>
+ * <statementList> ::= <statement> <statementList>
+ *              | epsilon
+ * <statment> ::= read variable 
+ *              | print variable 
+ *              | call variable
+ *              | <decision>
+ *              | <ciclo>
+ * <decision> ::= if lparen <condicion> rparen then <varDefList>? <statementList> endif
+ * 		| if lparen <condicion> rparen then <varDefList>? <statementList>  else <statementList> endif
+ * <while> ::= while lparen <condicion> rparen
+ *              <varDefList>
+ *              <statementList>
+ *		 endwhile
+ * <condicion> ::= <expression> | <variable> | <constante> <simboloCondicion> <variable> | <constante> | <expression>
+ * <return> ::= return <variable> | <constante> | <expr>
+ * <variableList> ::= <variable> <variableList>
+ *              | epsilon
+ * <variable> ::= <letra><letraonumero>
+ * <letraonumero> ::= <letra>|<numero>|<letra><letraonumero>|<numero><letraonumero>|epsilon
+ * <letra> ::= a | b | ... | z | A | B | ... | z
+ * <constante> ::= <digito>+
+ * <digito> ::= 0 | 1 | ... | 9
+ * <simboloCondicion> ::= !=|==|!|&&|||
+ * <expr> ::= <term> <exprRest>
+ * <exprRest> ::= +|- <term> <exprRest> | 𝜖
+ * <term> ::= <factor><termRest>
+ * <termRest> ::= *|/ <factor><termRest> | 𝜖
+ * <factor> ::= lparen <expr> rparen| variable | constant
+

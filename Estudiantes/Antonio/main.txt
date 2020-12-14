@@ -1,0 +1,20 @@
+program
+def misterioso ( int x int y int f int b )
+int t1mporal
+f = 1
+b = a + ( b * ( c * 2 ) - 5 ) / 4
+while ( a == 1 && b != 2 || f == 4 && c + d == d + 6 )
+endwhile
+read x
+read y
+print x
+return t
+enddef
+
+def main ( )
+int a
+int b
+call misterioso ( a b ) 
+return 0
+enddef
+endprogram
