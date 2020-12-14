@@ -1,0 +1,7 @@
+Codigo:            3030
+Nombre:            jhon cruz
+Sexo:              m
+Facultad:          INGENIERIA
+Materia:           ALGORITMOS -> Cod. Materia: 001
+
+

@@ -1,0 +1,43 @@
+Codigo:     0228
+Nombre:     ELKIN CRUZ
+Sexo:       M
+Carrera:    CIVIL
+Semestre:   6
+Facultad:   INGENIERIA
+Materia:     -> Profesor: Nombre:     JHON CRUZ -> Nota: 3.1|4.5|2.3 -> Total: 3.3
+
+Codigo:     0200
+Nombre:     Maria Reyes
+Sexo:       F
+Carrera:    INDUSTRIAL
+Semestre:   7
+Facultad:   INGENIERIA
+Materia:     -> Profesor: Nombre:     JHON CRUZ -> Nota: 4.5|4.3|4 -> Total: 4.26667
+
+Codigo:     0201
+Nombre:     FELIPE GUERRERO
+Sexo:       M
+Carrera:    ELECTRONICA
+Semestre:   9
+Facultad:   INGENIERIA
+Materia:    ALGORITMOS -> Profesor: JHON CRUZ -> Nota: 0|0|0 -> Total: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+Codigo:     0211
+Nombre:     JHON CRUZ
+Sexo:       M
+Facultad:   INGENIERIA
+Materia:    ALGORITMOS -> Cod. Materia: 001
+
+
+
+
+
+
+
+
+
+

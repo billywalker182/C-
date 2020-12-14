@@ -1,0 +1,10 @@
+Codigo:            2020
+Nombre:            Lina Bonilla
+Sexo:              F
+Carrera:           Tecnologia
+Semestre:          1
+Facultad:          Tecno
+Materia:           ALGORITMOS -> Profesor: jhon cruz -> Nota: 4.6|3.7|4.1 -> Total: 4.13333
+
+
+

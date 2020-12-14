@@ -1,0 +1,39 @@
+Codigo:            100
+Nombre:            LINA BONILLA
+Sexo:              F
+Carrera:           TECNOLIGIA SISTEMATIZACION
+Semestre:          1
+Facultad:          TECNOLOGIA
+Materia:           ALGORITMOS -> Profesor: JHON CRUZ -> Nota: 0|0|0 -> Total: 0
+
+Codigo:            101
+Nombre:            ANTONIO PEREZ
+Sexo:              M
+Carrera:           CIVIL
+Semestre:          2
+Facultad:          INGENIERIA
+Materia:           NO REGISTRADA
+
+Codigo:            102
+Nombre:            MAYRA CRUZ
+Sexo:              F
+Carrera:           BIOLOGA
+Semestre:          10
+Facultad:          TECNOLOGIA
+Materia:           NO REGISTRADA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

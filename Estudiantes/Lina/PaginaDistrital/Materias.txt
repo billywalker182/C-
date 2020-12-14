@@ -1,0 +1,7 @@
+Codigo:            001
+Nombre:            ALGORITMOS
+Creditos           5
+Codigo Profesor:   0211 -> JHON CRUZ
+Codigo Estudiante: 0228 -> ELKIN CRUZ -> Nota: 0|0|0 -> Total: 0
+Codigo Estudiante: 0200 -> Maria Reyes -> Nota: 0|0|0 -> Total: 0
+Codigo Estudiante: 0201 -> FELIPE GUERRERO -> Nota: 0|0|0 -> Total: 0

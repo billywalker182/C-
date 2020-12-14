@@ -1,0 +1,7 @@
+Pasta	800
+Te	280
+Cerveza	1900
+Mermelada	250
+Chocolate	4400
+Cafe	760
+Azucar 690

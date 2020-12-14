@@ -1,0 +1,26 @@
+
+Codigo:            100
+Nombre:            LINA BONILLA
+Sexo:              F
+Carrera:           SISTEMAS
+Semestre:          1
+Facultad:          TECNOLOGIA
+Materia:           NO REGISTRADA
+
+Codigo:            101
+Nombre:            ANTONIO PEREZ
+Sexo:              M
+Carrera:           SISTEMAS
+Semestre:          2
+Facultad:          TECNOLOGIA
+Materia:           NO REGISTRADA
+
+
+
+
+
+
+
+
+
+

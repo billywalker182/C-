@@ -1,0 +1,5 @@
+Codigo:            001
+Nombre:            ALGORITMOS
+Creditos           5
+Codigo Profesor:   3030 -> jhon cruz
+Codigo Estudiante: 2020 -> Lina Bonilla -> Nota: 0|0|0 -> Total: 0

@@ -1,0 +1,18 @@
+Codigo:   20191099008
+Nombre:   Lina Bonilla
+Sexo:     Femenino
+Carrera:  Tecnologia en Datos
+Semestre: 1
+Facultad: Ingenieria
+
+Codigo:   20191099010
+Nombre:   Elkin Cruz
+Sexo:     Masculino
+Carrera:  Ingenieria Civil
+Semestre: 6
+Facultad: Ingenieria
+
+
+
+
+

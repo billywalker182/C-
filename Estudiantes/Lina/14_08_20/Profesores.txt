@@ -1,0 +1,12 @@
+
+Codigo:            200
+Nombre:            JHON CRUZ
+Sexo:              M
+Facultad:          INGENIERIA
+Materia:           NO REGISTRADA
+
+
+
+
+
+

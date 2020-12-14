@@ -1,0 +1,5 @@
+Codigo:            001
+Nombre:            ALGORITMOS
+Creditos           5
+Codigo Profesor:   200 -> JHON CRUZ
+Codigo Estudiante: 100 -> LINA BONILLA -> Nota: 0|0|0 -> Total: 0
