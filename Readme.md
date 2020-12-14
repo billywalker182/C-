@@ -3,6 +3,16 @@
 
 ## Tutoriales
 
+* Estructuras Condicionales
+* Estructuras Repetitivas
+* Expresiones
+* Arreglos y Vectores
+* Matrices o Tablas
+* Cadenas
+* Punteros
+* POO
+
+
 
 ## Clases
 
