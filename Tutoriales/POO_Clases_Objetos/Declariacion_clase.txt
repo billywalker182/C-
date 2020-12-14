@@ -1,0 +1,5 @@
+Declaracion de una clase
+creacion objetos estaticos y dinamicos
+Arreglo objetos esticos y dinamicos
+Destructor Objetos
+Autoreferencia del objetos this

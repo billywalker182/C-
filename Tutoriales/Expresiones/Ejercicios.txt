@@ -1,0 +1,12 @@
+(a+b)+1
+(a+b)/(c+d)
+(a+(b/c))/(d+(e/f))
+a+(b/(c-d))
+Intercambio de valores x valga y y y valga x
+pida 3 notas y que de el promedio
+Hipotenusa de un triangulo -> include<math.h>
+(sqrt(x)/y^2-1)
+(-b+(sqrt(b^2-4ac)))/2a
+(-b-(sqrt(b^2-4ac)))/2a
+
+
