@@ -10,7 +10,9 @@
 * Matrices o Tablas
 * Cadenas
 * Punteros
-* POO
+* POO -> Clases y Objetos
+  * Declaración de una Clase
+  * Sobre Carga de Funciones Miembro
 
 
 
