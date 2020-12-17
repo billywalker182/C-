@@ -7,10 +7,10 @@ using namespace std;
 
 // Mostrar segundo paso
 // Sobrecarga del operador +
-/*Punto operator +(const Punto &p1, const Punto &p2){
+Punto& operator +(const Punto &p1, const Punto &p2){
 	Punto res(p1.x + p2.x , p1.y + p2.y);
 	return res;
-}*/
+}
 
 int main(int argc, char** argv) {
 	

@@ -1,7 +1,7 @@
 #include <iostream>
 
 class Punto{
-	
+	friend Punto& operator +(const Punto &p1, const Punto &p2);
 	private:
 		double x , y;
 		
@@ -15,7 +15,7 @@ class Punto{
 		double getX();
 		double getY();
 		
-		friend Punto& operator +(const Punto &p1, const Punto &p2);
+		
 };
 
 
