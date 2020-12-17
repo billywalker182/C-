@@ -13,6 +13,7 @@
 * Sobrecarga de Operadores
   * Sobrecarga de Operadores
   * POO Sobrecarga
+  * Operadores Binarios
 * POO -> Clases y Objetos
   * Declaración de una Clase
   * Sobre Carga de Funciones Miembro
