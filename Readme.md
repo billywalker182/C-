@@ -3,9 +3,10 @@
 
 ## Tutoriales
 
+* Introducción
+* Expresiones
 * Estructuras Condicionales
 * Estructuras Repetitivas
-* Expresiones
 * Arreglos y Vectores
 * Matrices o Tablas
 * Cadenas
