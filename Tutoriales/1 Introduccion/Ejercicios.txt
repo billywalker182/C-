@@ -1,2 +1,7 @@
+Primer programa
+tipo de datos
+entrada de datos
+operaciones aritmeticas
+
 1. Escribir un programa donde se ingrese el precio de un producto y su salida sea el valor del producto + el iva.
 2. Realice un programa que lepida al usuario edad, sexo, altura, mostrar por pantalla.
