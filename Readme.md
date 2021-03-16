@@ -7,7 +7,7 @@
 * Expresiones
 * Estructuras Condicionales
 * Estructuras Repetitivas
-* Arreglos y Vectores
+* Arreglos y Vectores 
 * Matrices o Tablas
 * Cadenas
 * Punteros
